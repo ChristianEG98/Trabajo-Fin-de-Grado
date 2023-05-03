@@ -1,2 +1,2 @@
 # Trabajo-Fin-de-Grado
-Repositorio del TFG: Aplicación de métodos de aprendizaje profundo para reconocimiento de imágenes de platos de comida
+Repositorio del Trabajo de Fin de Grado: Aplicación de métodos de aprendizaje profundo para reconocimiento de imágenes de platos de comida.
